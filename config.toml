@@ -1,12 +1,18 @@
-	[params.me]
+
 		baseURL = "https://www.matthartley.com"
 		languageCode = "en-us"
 		title = "Matt Hartley"
 		theme = "aafu"
 
+[params]
+    title = "Matt Hartley"
+    author = "Matt Hartley"
+    description = "About Me"
+    copyright = "2020"
+
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
-        mainTheme = "light"
+        mainTheme = "dark"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
         showAttribute = true
         singlePage = false
