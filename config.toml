@@ -1,0 +1,4 @@
+baseURL = "https://www.matthartley.com"
+languageCode = "en-us"
+title = "Matt Hartley"
+theme = "aafu"
