@@ -8,14 +8,14 @@
     title = "Matt Hartley"
     author = "Matt Hartley"
     description = "About Me"
-    copyright = "2020"
+    copyright = "aaa"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
         mainTheme = "dark"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
-        showAttribute = true
-        singlePage = false
+        showAttribute = false
+        singlePage = true
 
     [params.favicons]
         use = true
