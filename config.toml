@@ -39,11 +39,7 @@
     [params.social]
         title = "Links"
 
-        [[params.social.list]]
-            class = "fab"
-            icon = "fa-linkedin-in"
-            url = "https://www.linkedin.com/in/matthartley/"
-            title = "LinkedIn"		
+        		
         [[params.social.list]]
             class = "fab"
             icon = "#fa-stack-overflow"
@@ -54,6 +50,11 @@
             icon = "fa-github"
             url = "https://github.com/ctsdownloads/matthartley"
             title = "GitHub"
+		[[params.social.list]]
+            class = "fab"
+            icon = "fa-linkedin-in"
+            url = "https://www.linkedin.com/in/matthartley/"
+            title = "LinkedIn"
         [[params.social.list]]
             class = "fab"
             icon = "fa-twitter"
