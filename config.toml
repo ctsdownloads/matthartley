@@ -84,9 +84,7 @@
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "Matt provided technology evangelist, blogging and community outreach for Earth Networks. Matt helped to build a community of backyard weather enthusiasts that numbered in the tens of thousands. Matt maintained a civil ecosystem of discourse while encouraging feedback and engagement. Matt's most recent community management project is with FreedomPenguin.com. The site started as a resource for written articles put together by a team of volunteer writers.
-
-Matt has provided WordPress and static website support for his clients. Matt has tackled everything from improving website readiness to verifying SEO updates."
+        description = "Matt provided technology evangelist, blogging and community outreach for Earth Networks. Matt helped to build a community of backyard weather enthusiasts that numbered in the tens of thousands. Matt maintained a civil ecosystem of discourse while encouraging feedback and engagement. Matt's most recent community management project is with FreedomPenguin.com. The site started as a resource for written articles put together by a team of volunteer writers. Matt has provided WordPress and static website support for his clients. Matt has tackled everything from improving website readiness to verifying SEO updates."
 
     # Experience section
     [params.experience]
