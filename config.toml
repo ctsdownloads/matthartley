@@ -1,7 +1,8 @@
-baseURL = "https://www.matthartley.com"
-languageCode = "en-us"
-title = "Matt Hartley"
-theme = "aafu"
+	[params.me]
+		baseURL = "https://www.matthartley.com"
+		languageCode = "en-us"
+		title = "Matt Hartley"
+		theme = "aafu"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
