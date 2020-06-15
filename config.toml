@@ -8,7 +8,7 @@
     title = "Matt Hartley"
     author = "Matt Hartley"
     description = "About Me"
-    copyright = "aaa"
+    copyright = "2020"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
@@ -30,9 +30,9 @@
 
     # Profile section
     [params.profile]
-        name = "First Last, Abbr."
-		tagline = "Title"
-		location = "City Name, ST"
+        name = "Matt Hartley"
+		tagline = "Community Manager"
+		location = "Washington State, USA"
         photo = "profile.jpg"
 
     # Section for links to social websites
@@ -42,31 +42,31 @@
         [[params.social.list]]
             class = "fab"
             icon = "fa-linkedin-in"
-            url = "#"
+            url = "https://www.linkedin.com/in/matthartley/"
             title = "LinkedIn"		
         [[params.social.list]]
             class = "fab"
-            icon = "fa-stack-overflow"
+            icon = "#fa-stack-overflow"
             url = "#"
             title = "StackOverflow"
         [[params.social.list]]
             class = "fab"
             icon = "fa-github"
-            url = "#"
+            url = "https://github.com/ctsdownloads/matthartley"
             title = "GitHub"
         [[params.social.list]]
             class = "fab"
             icon = "fa-twitter"
-            url = "#"
+            url = "https://twitter.com/matthartley"
             title = "Twitter"
 		[[params.social.list]]
             class = "ai"
-            icon = "ai-google-scholar"
+            icon = "#ai-google-scholar"
             url = "#"
             title = "Google Scholar"
 		[[params.social.list]]
             class = "ai"
-            icon = "ai-researchgate"
+            icon = "#ai-researchgate"
             url = "#"
             title = "ResearchGate"
 
