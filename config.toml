@@ -8,7 +8,7 @@
     title = "Matt Hartley"
     author = "Matt Hartley"
     description = "About Me"
-    copyright = ""
+    copyright = "Last update June 15th, 2020"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
@@ -91,12 +91,14 @@
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "Matt provided technology evangelist, blogging and community outreach for Earth Networks. Matt helped to build a community of backyard weather enthusiasts that numbered in the tens of thousands. Matt maintained a civil ecosystem of discourse while encouraging feedback and engagement. Matt's most recent community management project is with FreedomPenguin.com. The site started as a resource for written articles put together by a team of volunteer writers. Matt has provided WordPress and static website support for his clients. Matt has tackled everything from improving website readiness to verifying SEO updates."
+        description = "I currently serve as the community manager for the OpenShot project. I handle the community management elements of OpenShot - Social, Reddit, end-user to developer outreach, that's me. I have worked with Linux desktops for well over a decade, my operating system experience consists of both Windows and Linux operating platforms. I've worked as a podcast producer, co-host and technology writer."
 
     # Experience section
     [params.experience]
         title = "Experiences"
         icon = "fas fa-briefcase"
+		description = "Community management"
+		details = "Previously I served as a community manager for Earth Networks. My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, Through daily interaction with community members, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."
 
         [[params.experience.list]]
             position = "Job Title"
