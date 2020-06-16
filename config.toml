@@ -145,10 +145,10 @@
 
 		[[params.project.list]]
             title = "OpenShot Community"
-            description = "My most recent community management project is working with the OpenShot video editor as the project's community manager. Opportunities I face include troubleshooting issues that end users may experience. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
+            description = "My most recent community management project is working with the OpenShot video editor as the project's community manager. Opportunities I face include troubleshooting issues that end users may experience. My duties include providing support and casual interaction on social media, how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing user created video projects with the rest of the community."
         [[params.project.list]]
             title = "Freedom Penguin Website"
-            description = "I created and built a community around a website called Freedom Penguin. I was the talking head, while other contributors from the Linux community created articles and videos that desktop Linux enthusiasts enjoyed. Freedom Penguin was a huge success for a number of years."
+            description = "I created and built a community around a website called Freedom Penguin. I was the talking head, while other contributors from the Linux community created articles and informational videos that desktop Linux enthusiasts enjoyed. Freedom Penguin was a huge success for a number of years."
         [[params.project.list]]
             title = "Earth Networks Backyard Weather Community"
             description = "My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."          
