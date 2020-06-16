@@ -145,7 +145,6 @@
 
 		[[params.project.list]]
             title = "OpenShot Community"
-            url = "#"
             description = "My most recent community management project is working with the OpenShot video editor as their community manager. Opportunities I face include troubleshooting issues that end users may experience while sharing successes had by those who choose OpenShot to develop their video creations. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
         [[params.project.list]]
             title = "Freedom Penguin Website"
