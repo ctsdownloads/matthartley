@@ -126,7 +126,7 @@
             dates = "Feb 2006 - Dec 2016"
 			link = "https://www.earthnetworks.com/"
             company = "Earth Networks"
-            details = "Built the Earth Networks Backyard Weather Community from the ground up. Moderated posts and approved member requests. Provided backend support for the community website, also helped beta test new consumer and professional weather monitoring software. I also handled Earth Networks's Backyard Community social channels."
+            details = "Built the Earth Networks Backyard Weather Community from the ground up. Moderated posts and approved member requests. Provided back-end support for the community website, also helped beta test new consumer and professional weather monitoring software. I also handled Earth Networks's Backyard Community social channels."
 		[[params.experience.list]]
             position = "Founder & Tech"
             dates = "July 2003 - Aug 2008"
