@@ -103,7 +103,7 @@
             dates = "May 2020 - *Present*"
 			link = "https://www.openshot.org/"
             company = "OpenShot Studios, LLC"
-            details = "Opportunities I face include troubleshooting issues that end users may experience while sharing successes had by those who choose OpenShot to develop their video creations. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
+            details = "I handle end user questions on social media and GitHub, community outreach. I also provide how-tos and teach others how to use OpenShot using video tutorials."
         [[params.experience.list]]
             position = "WordPress Administrator"
             dates = "June 2017 - *Present*"
@@ -138,60 +138,21 @@
 			company = "Weezy and The Swish"
             details = "TechTV's Laura Swisher, myself and Premiere Radio co-founder Louise Palanker brainstormed and created an audio podcast in the spirit of comedy called 'Weezy and The Swish.' Audio production work was handled by Matt Sigman, while I handled the website and RSS/podcasting syndication. Post-July 2007 onward, I moved onto another project."
 
-    # Publication section
-    [params.publication]
-        title = "Publications"
-        icon = "fas fa-book"
-        #The order below determines the order in which the items appear in "Publications" section
-        format = ["date", "authors", "title", "journal"]
-        #If you don't want to group publications, comment the line below by adding # at the beginning
-        types = ["Journal Articles", "Proceedings"]
-
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
-
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Journal Articles"
-		
-        [[params.publication.list]]
-            title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            authors = "F Last, F Second, P secondary"
-            date = "2018"
-            journal = "Journal of Field 52 (16), 9033-9044"
-            link = "#"
-            type = "Proceedings"
-
     # Project section
     [params.project]
         title = "Projects"
         icon = "fas fa-project-diagram"
 
-        [[params.project.list]]
-            title = "project"
+		[[params.project.list]]
+            title = "OpenShot Community"
             url = "#"
-            description = "Description of the project"
+            description = "My most recent community management project is working with the OpenShot video editor as their community manager. Opportunities I face include troubleshooting issues that end users may experience while sharing successes had by those who choose OpenShot to develop their video creations. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
         [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
+            title = "Freedom Penguin Website"
+            description = "I created and built a community around a website called Freedom Penguin. I was the talking head, while other contributors from the Linux community created articles and videos that desktop Linux enthusiasts enjoyed. Freedom Penguin was a huge success for a number of years."
         [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"
-        [[params.project.list]]
-            title = "project"
-            url = "#"
-            description = "Description of the project"            
+            title = "Earth Networks Backyard Weather Community"
+            description = "My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, Through daily interaction with community members, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."          
 
     # Skill section
     [params.skill]
