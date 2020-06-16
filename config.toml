@@ -127,6 +127,16 @@
 			link = "https://www.earthnetworks.com/"
             company = "Earth Networks"
             details = "Built the Earth Networks backyard weather enthusiast community from the ground up. Moderated posts and approved member requests. Provided backend support for the community website, also helped beta test new consumer and professional weather monitoring software."
+		[[params.experience.list]]
+            position = "Founder & Tech"
+            dates = "July 2003 - Aug 2008"
+			company = "Computer Troubleshoot"
+            details = "Managed my own PC Repair Business. Directed the business end of things while handling the technical challenges my clients faced. Tackled client computer issues, educated clients on how to best use their PCs."
+		[[params.experience.list]]
+            position = "Producer & Co-Founder"
+            dates = "June 2005 - June 2007"
+			company = "Weezy and The Swish"
+            details = "TechTV's Laura Swisher, myself and Premiere Radio co-founder Louise Palanker brainstormed and created an audio podcast in the spirit of comedy called 'Weezy and The Swish.' Audio production work was handled by Matt Sigman, while I handled the website and RSS/podcasting syndication. Post-July 2007 onward, I moved onto another project."
 
     # Publication section
     [params.publication]
