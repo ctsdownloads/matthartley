@@ -101,13 +101,14 @@
         [[params.experience.list]]
             position = "Community Manager"
             dates = "May 2020 - *Present*"
+			link = "https://www.openshot.org/"
             company = "OpenShot Studios, LLC"
             details = "Opportunities I face include troubleshooting issues that end users may experience while sharing successes had by those who choose OpenShot to develop their video creations. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
         [[params.experience.list]]
-            position = "Job Title"
-            dates = "2018 - 2019"
-            link = "#"
-            company = "Company Name"
+            position = "WordPress Administrator"
+            dates = "June 2017 - *Present*"
+            company = "Contract Work"
+			details = "Deploying installation, repair and overall day-to-day management of WordPress websites for contract clients. Additional tasks include backup management, hardening WordPress installations, integrating video/audio into existing WordPress sites."
 
     # Education section
     [params.education]
