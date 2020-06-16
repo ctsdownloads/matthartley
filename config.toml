@@ -95,10 +95,9 @@
 
     # Experience section
     [params.experience]
-        title = "Experiences"
+        title = "Experience"
         icon = "fas fa-briefcase"
-		description = "Community management"
-		str = "Previously I served as a community manager for Earth Networks. My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, Through daily interaction with community members, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."
+		description = "My Work Experience"
 
         [[params.experience.list]]
             position = "Job Title"
