@@ -91,7 +91,7 @@
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "I currently serve as the community manager for the OpenShot project. I handle the community management elements of OpenShot - Social, Reddit, end-user to developer outreach, that's me."
+        description = "I currently serve as the community manager for the OpenShot project."
 
     # Experience section
     [params.experience]
