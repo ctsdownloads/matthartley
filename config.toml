@@ -103,7 +103,7 @@
             dates = "May 2020 - *Present*"
 			link = "https://www.openshot.org/"
             company = "OpenShot Studios, LLC"
-            details = "I handle end user questions on social media and GitHub, community outreach. I also provide how-tos and teach others how to use OpenShot using video tutorials."
+            details = "I handle end user questions on social media and GitHub, community outreach. I also provide how-tos and teach others how to use the OpenShot video editor using video tutorials."
         [[params.experience.list]]
             position = "WordPress Administrator"
             dates = "June 2017 - *Present*"
