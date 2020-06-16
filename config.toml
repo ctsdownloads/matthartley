@@ -108,13 +108,13 @@
             position = "WordPress Administrator"
             dates = "June 2017 - *Present*"
             company = "Contract Work"
-			details = "Deploying installation, repair and overall day-to-day management of WordPress websites for contract clients. Additional tasks include backup management, hardening WordPress installations, integrating video/audio into existing WordPress sites."
+			details = "Installation, repair and overall day-to-day management of WordPress websites for contract clients. Additional tasks include backup management, hardening WordPress installations, integrating video/audio into existing WordPress sites."
 		[[params.experience.list]]
             position = "Founder & Contributor"
             dates = "Aug 2015 - Jan 2020"
 			link = "https://web.archive.org/web/20191226045145/https://freedompenguin.com/"
             company = "Freedom Penguin"
-            details = "Worked closely with contributors, editors and the community for FreedomPenguin.com. Created written and video content about Linux. Responsible for WordPress hosting and management of the website's back-end functionality, security."
+            details = "Worked closely with contributors, editors and the Freedom Penguin community. Created written and video content about Linux. Responsible for WordPress hosting and management of the website's back-end functionality, security."
 		[[params.experience.list]]
             position = "Freelance Contributor"
             dates = "June 2007 - July 2018"
@@ -126,17 +126,17 @@
             dates = "Feb 2006 - Dec 2016"
 			link = "https://www.earthnetworks.com/"
             company = "Earth Networks"
-            details = "Built the Earth Networks backyard weather enthusiast community from the ground up. Moderated posts and approved member requests. Provided backend support for the community website, also helped beta test new consumer and professional weather monitoring software."
+            details = "Built the Earth Networks Backyard Weather Community from the ground up. Moderated posts and approved member requests. Provided backend support for the community website, also helped beta test new consumer and professional weather monitoring software. I also handled Earth Networks's Backyard Community social channels."
 		[[params.experience.list]]
             position = "Founder & Tech"
             dates = "July 2003 - Aug 2008"
 			company = "Computer Troubleshoot"
-            details = "Managed my own PC Repair Business. Directed the business end of things while handling the technical challenges my clients faced. Tackled client computer issues, educated clients on how to best use their PCs."
+            details = "Managed my own PC Repair Business. Directed the business end of things while handling the technical challenges my clients faced. Tackled typical computer issues, while educating clients on how to best use their PCs."
 		[[params.experience.list]]
             position = "Producer & Co-Founder"
             dates = "June 2005 - June 2007"
 			company = "Weezy and The Swish"
-            details = "TechTV's Laura Swisher, myself and Premiere Radio co-founder Louise Palanker brainstormed and created an audio podcast in the spirit of comedy called 'Weezy and The Swish.' Audio production work was handled by Matt Sigman, while I handled the website and RSS/podcasting syndication. Post-July 2007 onward, I moved onto another project."
+            details = "TechTV's Laura Swisher, myself and Premiere Radio co-founder Louise Palanker created an audio podcast in the spirit of comedy called 'Weezy and The Swish.' Audio production work was handled by Matt Sigman, while I handled the website and RSS/podcasting syndication."
 
     # Project section
     [params.project]
@@ -145,13 +145,13 @@
 
 		[[params.project.list]]
             title = "OpenShot Community"
-            description = "My most recent community management project is working with the OpenShot video editor as their community manager. Opportunities I face include troubleshooting issues that end users may experience while sharing successes had by those who choose OpenShot to develop their video creations. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
+            description = "My most recent community management project is working with the OpenShot video editor as the project's community manager. Opportunities I face include troubleshooting issues that end users may experience. My duties include providing support and casual interaction on social media, in how-to videos and providing support on Reddit/r/openshot. When I'm not providing support, I'm fielding community feedback for new features, interacting with volunteer software testers and sharing community created video projects to celebrate work our community put together using OpenShot."
         [[params.project.list]]
             title = "Freedom Penguin Website"
             description = "I created and built a community around a website called Freedom Penguin. I was the talking head, while other contributors from the Linux community created articles and videos that desktop Linux enthusiasts enjoyed. Freedom Penguin was a huge success for a number of years."
         [[params.project.list]]
             title = "Earth Networks Backyard Weather Community"
-            description = "My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, Through daily interaction with community members, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."          
+            description = "My time at Earth Networks was spent building a community of backyard weather enthusiasts that numbered in the tens of thousands while maintaining the community website. In addition to interacting and sharing user feedback, I helped cultivate a civil ecosystem of discourse while encouraging feedback and engagement."          
 
     # Skill section
     [params.skill]
