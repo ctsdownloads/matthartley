@@ -98,6 +98,12 @@
         title = "Experience"
         icon = "fas fa-briefcase"
 
+	[[params.experience.list]]
+            position = "Founder and Talking Head"
+            dates = "Sept 2020 - *Present*"
+			link = "http://OldSchoolis.Cool"
+            company = "Old School Community"
+            details = "Old School serves as an escape for those wishing to remember what life was like in decades past. Here we share funny stories of our youth, take pride in doing things the “old school” way. Each post here allows us to remember memories, pop culture and TV/movies from the 1960s. 1970s, and 1980s."
         [[params.experience.list]]
             position = "Community Manager"
             dates = "May 2020 - *Present*"
@@ -106,7 +112,7 @@
             details = "I handle end user questions on social media and GitHub, community outreach. I also provide how-tos and teach others how to use the OpenShot video editor using video tutorials."
         [[params.experience.list]]
             position = "WordPress Administrator"
-            dates = "June 2017 - *Present*"
+            dates = "June 2017 - Sept 2020"
             company = "Contract Work"
 			details = "Installation, repair and overall day-to-day management of WordPress websites for contract clients. Additional tasks include backup management, hardening WordPress installations, integrating video/audio into existing WordPress sites."
 		[[params.experience.list]]
