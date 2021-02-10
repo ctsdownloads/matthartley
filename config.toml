@@ -8,7 +8,7 @@
     title = "Matt Hartley"
     author = "Matt Hartley"
     description = "About Me"
-    copyright = "Last update: July 10th, 2020"
+    copyright = "Last update: Feburary 2021"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
