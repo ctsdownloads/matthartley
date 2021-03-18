@@ -116,12 +116,6 @@
             company = "Contract Work"
 			details = "Installation, repair and overall day-to-day management of WordPress websites for contract clients. Additional tasks include backup management, hardening WordPress installations, integrating video/audio into existing WordPress sites."
 		[[params.experience.list]]
-            position = "Founder & Contributor"
-            dates = "Aug 2015 - Jan 2020"
-			link = "https://web.archive.org/web/20191226045145/https://freedompenguin.com/"
-            company = "Freedom Penguin"
-            details = "**(No longer own the domain, squatters are running the site as of July 2020.)** Worked closely with contributors, editors and the Freedom Penguin community. Created written and video content about Linux. Responsible for WordPress hosting and management of the website's back-end functionality, security."
-		[[params.experience.list]]
             position = "Freelance Contributor"
             dates = "June 2007 - July 2018"
 			link = "https://www.datamation.com/"
